@@ -3,7 +3,18 @@
 
 
 
-<div class="admins chat-popup" id="myForm">
-  <form action="/action_page.php" class="form-container">
-    <h1>Chat</h1>
+<button type="button" onclick="alert('this is an alert')">alert test</button>
 
+
+
+## this is a test bar 
+<input class="form-control" id="siteEntry" placeholder="." data-toggle="tooltip">  
+
+
+
+## push url button test
+<button onclick="window.location.href='cbozeyboy199.github.io/chat/'">chat</button>
+
+
+## fix asset button
+<button onClick="window.location.reload();">fix assets/button>
