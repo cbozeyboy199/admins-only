@@ -17,4 +17,4 @@
 
 
 ## fix asset button
-<button onClick="window.location.reload();">fix assets/button>
+<button onClick="window.location.reload();">fix assets</button>
